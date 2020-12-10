@@ -23,7 +23,7 @@ In this challenge you will write tests with Cypress to debug your forms app from
 
 This project is a continuation of the work you have done previously.
 
-- [ ] CD into your old project
+- [ ] CD into your old project... dont have old project.. cant do this... could not even follow guided project so thats ok
 - [ ] Continue to make changes and push to the same branch
 - [ ] Install Cypress with npm.
       `npm install cypress --save-dev`
